@@ -3,6 +3,8 @@
 ## Description
 This repository is to hold any and all code refactors that are commissioned by "Horiseon"
 
+I made a couple of design changes in reference to continuity on the color scheme. Each location was a different color as opposed to a uniformity of blue.
+
 ## Installation
 
 N/A
